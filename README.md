@@ -10,3 +10,8 @@ Currently, two official plugins are available:
 ## Install & Run
 - yarn 
 - yarn dev
+
+# Cambios
+- ningun cambios resaltable
+# sugerencia
+- de ser posible enlaces de videos para tener mas claro todo.
